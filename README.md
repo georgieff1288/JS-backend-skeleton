@@ -2,7 +2,7 @@
 
 
 
-## Instal packages
+## Install packages
 ```
 npm install
 ```
